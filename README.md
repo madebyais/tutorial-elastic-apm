@@ -1,6 +1,11 @@
 # tutorial-elastic-apm
 
+#### Pre-requisite
+
 Before we get started, please make sure that you already installed `docker` and `go` in your machine.
+
+Minimum `go` version should be in `v1.13.5`
+
 Please follow below steps to continue to play around with elastic stack.
 
 1. Pull following docker images:
